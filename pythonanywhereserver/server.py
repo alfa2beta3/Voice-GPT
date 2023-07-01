@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = "your key please"
 
 def process(questions):
     # list models
