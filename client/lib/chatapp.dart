@@ -15,6 +15,7 @@ class _ChatAppState extends State<ChatApp> {
 
   // A list of chat messages
   final List<String> _messages = [];
+  var answer = "";
 
   // Adds the submitted message to the list of messages and clears the text input field
   void _handleSubmitted(String text) {
@@ -22,6 +23,17 @@ class _ChatAppState extends State<ChatApp> {
       _messages.add(text);
       // Send a POST request with the text in the text field
       _sendPostRequest('http://leexingyang.pythonanywhere.com/user', _textController.text);
+    });
+    _displayResponse();
+  }
+
+  void _displayResponse() async {
+    final response = await http
+        .get(Uri.parse('https://leexingyang.pythonanywhere.com/user'));
+    final decoded = jsonDecode(response.body);
+    setState(() {
+      answer = decoded['message'];
+      _messages.add(answer);
     });
   }
 
@@ -147,7 +159,8 @@ class _ChatAppState extends State<ChatApp> {
       child: Text(message,
         style: const TextStyle(
           color:Colors.white,
-        ),),
+        ),
+      ),
     );
   }
 }
