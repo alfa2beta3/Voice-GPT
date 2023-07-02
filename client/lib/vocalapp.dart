@@ -14,6 +14,7 @@ class _VocalAppState extends State<VocalApp> {
   TextToSpeech tts = TextToSpeech();
   bool _isListening = false;
   String _text = 'Press the button and start speaking';
+  var password = "Your password";
 
   // Sends a POST request to the specified URL with the text in the request body
   void _sendPostRequest(String url, String text) async {
@@ -87,6 +88,7 @@ class _VocalAppState extends State<VocalApp> {
     if (_isListening) {
       _speech.stop();
       setState(() => _isListening = false);
+      _sendPostRequest('http://leexingyang.pythonanywhere.com/auth', password);
       _sendPostRequest('https://leexingyang.pythonanywhere.com/user', _text);
       final response = await http
           .get(Uri.parse('https://leexingyang.pythonanywhere.com/user'));

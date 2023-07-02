@@ -15,12 +15,16 @@ class _ChatAppState extends State<ChatApp> {
 
   // A list of chat messages
   final List<String> _messages = [];
+  var password = "your password";
   var answer = "";
+
 
   // Adds the submitted message to the list of messages and clears the text input field
   void _handleSubmitted(String text) {
     setState(() {
       _messages.add(text);
+      //Authentication
+      _sendPostRequest('http://leexingyang.pythonanywhere.com/auth', password);
       // Send a POST request with the text in the text field
       _sendPostRequest('http://leexingyang.pythonanywhere.com/user', _textController.text);
     });
