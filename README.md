@@ -140,33 +140,18 @@ Once the download is complete, locate the installer file.
      * After the setup is finished, you'll be presented with the Android Studio welcome screen.
 Congratulations! You have successfully installed Android Studio on your computer. You can now create and develop Android applications using this powerful IDE.
 
-2. ChatGPT
+#### Flutter
+   1. Flutter IDE exist as a plugin. Check out the tutorial [How to install flutter plugin inside Android Studio in 2022](https://codingwitht.com/how-to-install-flutter-on-android-studio-2022-flutter-crash-course/)
 
-3. Flutter
-
-4. Visual Studio Code
-   * Go to the download link [Visual Studio Code](https://code.visualstudio.com/download)
+#### Visual Studio Code
+   1. Go to the download link [Visual Studio Code](https://code.visualstudio.com/download)
       <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Visual_Studio_Code.png" alt="VS Code download page">
-   * Select Visual Studio Code for Windows
+   2. Select Visual Studio Code for Windows
      <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Visual_Studio_Code_1.png" alt="Vs Vode download page (select windows)">
-   * Follow the installation instructions.
+   3. Follow the installation instructions.
 
-3. Working with github repository.
-   * To work with github repository, you need to have git bash installed. [Download Git Bash for Windows](https://git-scm.com/download/win)
-
-4.
-  
-#### Hardwares
-
-1. Personal Computer / Laptop
-2. Tinkerkit board x 3
-3. ESP32 x 3
-4. Rechargable battery (5V) x 2
-5. Battery holder (2 batteries) x 1
-6. Micro-b USB connector x 1
-7. LCD Display with converter from parallel to serial x 1
-8. Female to male jumpers x 4
-   
+#### Working with github repository.
+   1. To work with github repository, you need to have git bash installed. [Download Git Bash for Windows](https://git-scm.com/download/win)
 
 ### Installation
 
@@ -197,40 +182,6 @@ Congratulations! You have successfully installed Android Studio on your computer
 
 For more information, refer to [tutorial](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
 The instructions are quoted from there.
-
-##### Hardware setup
-
-1. Table device
-   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Table-Hardware-1.jpg" alt="table 1">
-   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Table-Hardware-2.jpg" alt="table 2">
-3. Queue device
-    <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Queue-Hardware.jpg" alt="queue">
-
-##### Software setup (for all)
-
-1. In your Arduino IDE, go to File> Preferences
-  <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Preference.png" alt="preferences"> 
-2. Enter the following into the “Additional Board Manager URLs” field: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Enter_Url_of_ESP32_Lib.png" alt="url"> 
-3. Then, click the “OK” button:
-4. Open the Boards Manager. Go to Tools > Board > Boards Manager.
-   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Get_To_Board-Manager.png" alt="board manager"> 
-6. Search for ESP32 and press install button for the “ESP32 by Espressif Systems“:
-   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/ESP32_Plugin.png" alt="esp32 plugin">
-7. Select your Board in Tools > Board menu
-8. If you have connected esp32 to tbe laptop, select the Port. Else, jump to hardware setup.
-9. In case the port dont show up, please install USB driver from your phone's OEM driver website. You could go to your brand's website and search at support section. [Example](https://gsmusbdriver.com/vivo-y21t#driver2)
-10. You would need to configure the IP address of each device to make it work properly.
-    * Go to File, go to your folder, open the file "combined arduino tinkercode".
-      <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Open_File.png" alt="Open file">
-    * Change your network credentials.
-      <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Network_Cred%20.png" alt="Network credential">
-    * Set your network address for device.
-      <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Set_IP_Addr.png" alt="Set address">
-11. Compile the code to esp32 and run it.
-    <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Compile_Run.png" alt="Compile and run">
-    
-    
 
 <!-- Demonstrations -->
 ## Demonstrations
