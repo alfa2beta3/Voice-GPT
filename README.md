@@ -139,7 +139,11 @@ Once the download is complete, locate the installer file.
      * After the setup is finished, you'll be presented with the Android Studio welcome screen.
 Congratulations! You have successfully installed Android Studio on your computer. You can now create and develop Android applications using this powerful IDE.
 
-2. Visual Studio Code
+2. ChatGPT
+
+3. Flutter
+
+4. Visual Studio Code
    * Go to the download link [Visual Studio Code](https://code.visualstudio.com/download)
       <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Visual_Studio_Code.png" alt="VS Code download page">
    * Select Visual Studio Code for Windows
@@ -149,12 +153,7 @@ Congratulations! You have successfully installed Android Studio on your computer
 3. Working with github repository.
    * To work with github repository, you need to have git bash installed. [Download Git Bash for Windows](https://git-scm.com/download/win)
 
-4. Arduino IDE
-   * To work with the hardwares, you would need arduino IDE to load codings into the hardware.
-   * To follow this tutorial, install  [Arduino IDE 1.8.19](https://www.arduino.cc/en/software)
-
-5. Tinkercode
-   * To work with tinkerkit board, you need Tinkercode software. [Download Tinkercode](https://app.tinkercode.my/)
+4.
   
 #### Hardwares
 
