@@ -154,21 +154,6 @@ Congratulations! You have successfully installed Android Studio on your computer
 #### Python Anywhere
    1. Go to this [Website](https://www.pythonanywhere.com/)
    2. Sign up for an account.
-   3. Go to Web.
-      * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/PythonAnywhere_1.png" alt="PythonAnywhere"> 
-   4. Click "Add a new web app".
-      * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/PythonAnywhere_2.png" alt="PythonAnywhere"> 
-   5. Select python interpreter.
-      * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Select Python.png" alt="SelectPython"> 
-   6. Change name.
-      * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Rename_File.png" alt="Rename_File">
-   7. Click next.
-      * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Next.png" alt="Next">
-   8. Select Files.
-      * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Files.png" alt="Add Files">
-   10. Copy the server.py code in backend.
-   11. Paste into the server.py at PythonAnywhere.
-   12. Add all coding files into the PythonAnywhere.
 
 #### Working with github repository.
    1. To work with github repository, you need to have git bash installed. [Download Git Bash for Windows](https://git-scm.com/download/win)
@@ -189,6 +174,24 @@ Clone the repo
     ```sh
     git clone https://github.com/alfa2beta3/Voice-GPT.git
    ```
+
+#### The Backend
+
+1. Go to Web.
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/PythonAnywhere_1.png" alt="PythonAnywhere"> 
+2. Click "Add a new web app".
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/PythonAnywhere_2.png" alt="PythonAnywhere"> 
+3. Select python interpreter.
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Select Python.png" alt="SelectPython"> 
+4. Change name.
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Rename_File.png" alt="Rename_File">
+5. Click next.
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Next.png" alt="Next">
+6. Select Files.
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Files.png" alt="Add Files">
+7. Copy the server.py code in backend.
+8. Paste into the server.py at PythonAnywhere.
+9. Add all coding files into the PythonAnywhere.
 
 
 <!-- Demonstrations -->
