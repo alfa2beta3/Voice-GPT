@@ -92,6 +92,7 @@
 * <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/Android.png?raw=true" alt="Android Studio" title="Android Studio"/></code> <strong> Android Studio </Strong>
 * <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/Chatgpt.png" alt="Chatgpt" title="Chatgpt"/></code> <strong> Chatgpt</Strong>
 * <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/Flutter.jpg" alt="Flutter" title="Flutter"/></code> <strong> Flutter </Strong>
+* <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/Visual_Studio.jpg" alt="Visual Studio" title="Visual Studio"/></code> <strong> Visual Studio </Strong>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
