@@ -28,25 +28,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System">
+  <a href="https://github.com/alfa2beta3/Voice-GPT">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Smart-Restaurant-Ordering-System</h3>
+<h3 align="center">Voice-GPT</h3>
 
   <p align="center">
-    The project is a IOT system used for restaurant and small food court. The system consist of several parts. There is a seat booking system, a digital menu, a system for chef to identify customers in just a click on screen, that the food is ready so that they can pick up the food, a hardware that show the food owners at the counter and a payment system. 
-    The system consist of a table hardware, a website, a hardware at the counter, and a payment system.
-    
+    The project is an android app system intended to contribute for convenience of the blinds. Just a click on the screen, ask question, and get answer from gpt engine.
     <br />
-    <a href="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alfa2beta3/Voice-GPT"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/Demo">View Demo</a>
+    <a href="https://github.com/alfa2beta3/Voice-GPT/Demo">View Demo</a>
     ·
-    <a href="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/issues">Report Bug</a>
+    <a href="https://github.com/alfa2beta3/Voice-GPT/issues">Report Bug</a>
     ·
-    <a href="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/issues">Request Feature</a>
+    <a href="https://github.com/alfa2beta3/Voice-GPT/issues">Request Feature</a>
   </p>
 </div>
 
@@ -91,16 +89,9 @@
 
 ### Built With
 
-* <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code> <strong> php </strong>
-* <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code> <strong> JavaScript </strong>
-* <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code> <strong> MySQL </strong>
-* <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code> <strong> HTML </strong>
-* <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code> <strong> CSS </strong>
-* <code><img width="50" src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/Icons/96018_xampp_icon.png" alt="CSS" title="XAMPP"/></code> <strong> XAMPP </strong>
-* <code><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code> <strong> Sublime Text </strong>
-<strong> or <strong><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code> <strong> Visual Studio Code </Strong>
-* <code><img width="50" src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/Icons/arduino.jpeg" alt="Arduino" title="Arduino"/></code> <strong> Arduino </Strong>
-* <code><img width="50" src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/Icons/Tinkercode.png" alt="Tinkercode" title="Tinkercode"/></code> <strong> Tinkercode </Strong>
+* <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/Android.png?raw=true" alt="Android Studio" title="Android Studio"/></code> <strong> Android Studio </Strong>
+* <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/Chatgpt.png" alt="Chatgpt" title="Chatgpt"/></code> <strong> Chatgpt</Strong>
+* <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/Flutter.jpg" alt="Flutter" title="Flutter"/></code> <strong> Flutter </Strong>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -113,31 +104,56 @@ To get a local copy up and running, please follow these simple steps.
 
 ### Prerequisites
 
-#### Softwares
-
 To get this project run on your pc, please install the relevant tools, by following the instructions below.
-1. XAMPP
-   * Go to the website  [XAMPP](https://www.apachefriends.org/)
-   * Select XAMPP for Windows
-     <br> <img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/XAMPP.png" alt="XAMPP download page">
-   * Follow the installation instructions.
 
-2. Visual Studio Code
+#### Android Studio
+
+   1. System Requirements:
+      * Check if your computer meets the minimum system requirements for Android Studio.
+        * 64-bit Microsoft® Windows® 8/10/11
+        * x86_64 CPU architecture; 2nd generation Intel Core or newer, or AMD CPU with support for a Windows Hypervisor
+        * 8 GB RAM or more
+        * 8 GB of available disk space minimum (IDE + Android SDK + Android Emulator)
+        * 1280 x 800 minimum screen resolution
+   2. Download Android Studio:
+      * Visit the official Android Studio website at [https://developer.android.com/studio](https://developer.android.com/studio/archive).
+      * Find Android Studio Electric Eel | 2022.1.1 Canary 9 August 3, 2022 and download it.
+Once the download is complete, locate the installer file.
+   3. Install Android Studio:
+     * Run the installer file you downloaded in the previous step.
+     * The installer will guide you through the installation process. Follow the on-screen instructions.
+     * Choose the installation location for Android Studio and click "Next."
+     * Select the components you want to install. By default, all recommended components will be selected. You can customize the installation based on your requirements.
+     * Choose whether you want to import previous Android Studio settings or start with default settings.
+     * On the following screens, review the settings and click "Next" to proceed.
+     * Finally, click on the "Install" button to begin the installation process. It may take some time to complete.
+   4. SDK Components:
+     * Once the installation is finished, Android Studio will launch. It will prompt you to install the Android SDK components that are necessary for app development.
+     * Review the suggested SDK components and click "Next" to proceed.
+     * Accept the license agreements and click "Finish" to begin the SDK download and installation process. This may take a while, depending on your internet speed.
+   5. Configuration and Setup:
+     * Once the SDK components installation is complete, Android Studio will present you with the setup wizard.
+     * Choose the "Standard" installation type and click "Next."
+     * Select the theme for Android Studio and click "Next."
+     * Android Studio will download and install additional components and dependencies as per your chosen options.
+     * After the setup is finished, you'll be presented with the Android Studio welcome screen.
+Congratulations! You have successfully installed Android Studio on your computer. You can now create and develop Android applications using this powerful IDE.
+
+2. ChatGPT
+
+3. Flutter
+
+4. Visual Studio Code
    * Go to the download link [Visual Studio Code](https://code.visualstudio.com/download)
-      <br> <img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Visual_Studio_Code.png" alt="VS Code download page">
+      <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Visual_Studio_Code.png" alt="VS Code download page">
    * Select Visual Studio Code for Windows
-     <br> <img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Visual_Studio_Code_1.png" alt="Vs Vode download page (select windows)">
+     <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Visual_Studio_Code_1.png" alt="Vs Vode download page (select windows)">
    * Follow the installation instructions.
 
 3. Working with github repository.
    * To work with github repository, you need to have git bash installed. [Download Git Bash for Windows](https://git-scm.com/download/win)
 
-4. Arduino IDE
-   * To work with the hardwares, you would need arduino IDE to load codings into the hardware.
-   * To follow this tutorial, install  [Arduino IDE 1.8.19](https://www.arduino.cc/en/software)
-
-5. Tinkercode
-   * To work with tinkerkit board, you need Tinkercode software. [Download Tinkercode](https://app.tinkercode.my/)
+4.
   
 #### Hardwares
 
@@ -158,21 +174,21 @@ To get this project run on your pc, please install the relevant tools, by follow
 1. Clone the repo
    * Open command prompt in windows by typing command prompt in desktop search.
    * Go to your desired location to put the files.
-     <br> <img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Command_Prompt.png" alt="Command Prompt Navigate">
+     <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Command_Prompt.png" alt="Command Prompt Navigate">
    * Creat an empty repository.
      ```sh
      git init
      ```
    * Paste the following line to clone the repository.
      ```sh
-     git clone https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System.git
+     git clone https://github.com/alfa2beta3/Voice-GPT.git
      ```
 2. Go to your file location and copy these files.
-   <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/copy.png" alt="XAMPP files needed to be copied">
+   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/copy.png" alt="XAMPP files needed to be copied">
    
 3. Go to your installation path of XAMPP. And then, enter a file called "htdocs". In my case, the path is C/XAMPP/htdocs.
    Either, you can also write the location like so.
-   <br> <img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/htdocs.png" alt="XAMPP htdocs location">
+   <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/htdocs.png" alt="XAMPP htdocs location">
    
 4. Paste the files inside this location.
 
@@ -184,41 +200,41 @@ The instructions are quoted from there.
 ##### Hardware setup
 
 1. Table device
-   <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Table-Hardware-1.jpg" alt="table 1">
-   <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Table-Hardware-2.jpg" alt="table 2">
+   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Table-Hardware-1.jpg" alt="table 1">
+   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Table-Hardware-2.jpg" alt="table 2">
 3. Queue device
-    <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Queue-Hardware.jpg" alt="queue">
+    <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Queue-Hardware.jpg" alt="queue">
 
 ##### Software setup (for all)
 
 1. In your Arduino IDE, go to File> Preferences
-  <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Preference.png" alt="preferences"> 
+  <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Preference.png" alt="preferences"> 
 2. Enter the following into the “Additional Board Manager URLs” field: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-   <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Enter_Url_of_ESP32_Lib.png" alt="url"> 
+   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Enter_Url_of_ESP32_Lib.png" alt="url"> 
 3. Then, click the “OK” button:
 4. Open the Boards Manager. Go to Tools > Board > Boards Manager.
-   <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Get_To_Board-Manager.png" alt="board manager"> 
+   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Get_To_Board-Manager.png" alt="board manager"> 
 6. Search for ESP32 and press install button for the “ESP32 by Espressif Systems“:
-   <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/ESP32_Plugin.png" alt="esp32 plugin">
+   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/ESP32_Plugin.png" alt="esp32 plugin">
 7. Select your Board in Tools > Board menu
 8. If you have connected esp32 to tbe laptop, select the Port. Else, jump to hardware setup.
 9. In case the port dont show up, please install USB driver from your phone's OEM driver website. You could go to your brand's website and search at support section. [Example](https://gsmusbdriver.com/vivo-y21t#driver2)
 10. You would need to configure the IP address of each device to make it work properly.
     * Go to File, go to your folder, open the file "combined arduino tinkercode".
-      <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Open_File.png" alt="Open file">
+      <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Open_File.png" alt="Open file">
     * Change your network credentials.
-      <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Network_Cred%20.png" alt="Network credential">
+      <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Network_Cred%20.png" alt="Network credential">
     * Set your network address for device.
-      <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Set_IP_Addr.png" alt="Set address">
+      <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Set_IP_Addr.png" alt="Set address">
 11. Compile the code to esp32 and run it.
-    <br><img src="https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/main/pictures/Compile_Run.png" alt="Compile and run">
+    <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Compile_Run.png" alt="Compile and run">
     
     
 
 <!-- Demonstrations -->
 ## Demonstrations
 
-_For more examples, please refer to the [Documentation](https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/tree/main/Documentation)
+_For more examples, please refer to the [Documentation](https://github.com/alfa2beta3/Voice-GPT/tree/main/Documentation)
 
 [Download the app](https://drive.google.com/drive/folders/1l4bKnOxMOX5XeSJDPk64IpXXrIOq7r_d?usp=sharing)
 
@@ -234,7 +250,7 @@ _For more examples, please refer to the [Documentation](https://github.com/alfa2
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/alfa2beta3/Voice-GPT/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -270,7 +286,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@XingYangLe21649](https://twitter.com/XingYangLe21649) - leexingyang180@gmail.com
 
-Project Link: [https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System](https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System)
+Project Link: [https://github.com/alfa2beta3/Voice-GPT](https://github.com/alfa2beta3/Voice-GPT)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -289,16 +305,16 @@ Project Link: [https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System](h
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/alfa2beta3/Smart-Restaurant-Ordering-System.svg?style=for-the-badge
-[contributors-url]: https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/alfa2beta3/Smart-Restaurant-Ordering-System.svg?style=for-the-badge
-[forks-url]: https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/network/members
-[stars-shield]: https://img.shields.io/github/stars/alfa2beta3/Smart-Restaurant-Ordering-System.svg?style=for-the-badge
-[stars-url]: https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/stargazers
-[issues-shield]: https://img.shields.io/github/issues/alfa2beta3/Smart-Restaurant-Ordering-System.svg?style=for-the-badge
-[issues-url]: https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/issues
-[license-shield]: https://img.shields.io/github/license/alfa2beta3/Smart-Restaurant-Ordering-System.svg?style=for-the-badge
-[license-url]: https://github.com/alfa2beta3/Smart-Restaurant-Ordering-System/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/alfa2beta3/Voice-GPT.svg?style=for-the-badge
+[contributors-url]: https://github.com/alfa2beta3/Voice-GPT/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/alfa2beta3/Voice-GPT.svg?style=for-the-badge
+[forks-url]: https://github.com/alfa2beta3/Voice-GPT/network/members
+[stars-shield]: https://img.shields.io/github/stars/alfa2beta3/Voice-GPT.svg?style=for-the-badge
+[stars-url]: https://github.com/alfa2beta3/Voice-GPT/stargazers
+[issues-shield]: https://img.shields.io/github/issues/alfa2beta3/Voice-GPT.svg?style=for-the-badge
+[issues-url]: https://github.com/alfa2beta3/Voice-GPT/issues
+[license-shield]: https://img.shields.io/github/license/alfa2beta3/Voice-GPT.svg?style=for-the-badge
+[license-url]: https://github.com/alfa2beta3/Voice-GPT/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/xing-yang-lee-362a54181
 [product-screenshot]: images/screenshot.png
