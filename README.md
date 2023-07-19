@@ -93,6 +93,7 @@
 * <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/Chatgpt.png" alt="Chatgpt" title="Chatgpt"/></code> <strong> Chatgpt</Strong>
 * <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/Flutter.jpg" alt="Flutter" title="Flutter"/></code> <strong> Flutter </Strong>
 * <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/Visual_Studio.jpg" alt="Visual Studio" title="Visual Studio"/></code> <strong> Visual Studio </Strong>
+* <code><img width="50" src="https://github.com/alfa2beta3/Voice-GPT/blob/main/icons/PythonAnywhere.png" alt="PythonAnywhere" title="PythonAnywhere"/></code> <strong> PythonAnywhere </Strong>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -119,7 +120,7 @@ To get this project run on your pc, please install the relevant tools, by follow
    2. Download Android Studio:
       * Visit the official Android Studio website at [https://developer.android.com/studio](https://developer.android.com/studio/archive).
       * Find Android Studio Electric Eel | 2022.1.1 Canary 9 August 3, 2022 and download it.
-Once the download is complete, locate the installer file.
+      * Once the download is complete, locate the installer file.
    3. Install Android Studio:
      * Run the installer file you downloaded in the previous step.
      * The installer will guide you through the installation process. Follow the on-screen instructions.
@@ -150,38 +151,48 @@ Congratulations! You have successfully installed Android Studio on your computer
      <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Visual_Studio_Code_1.png" alt="Vs Vode download page (select windows)">
    3. Follow the installation instructions.
 
+#### Python Anywhere
+   1. Go to this [Website](https://www.pythonanywhere.com/)
+   2. Sign up for an account.
+
 #### Working with github repository.
    1. To work with github repository, you need to have git bash installed. [Download Git Bash for Windows](https://git-scm.com/download/win)
 
 ### Installation
 
-#### Website
+#### The Front End 
 
-1. Clone the repo
-   * Open command prompt in windows by typing command prompt in desktop search.
-   * Go to your desired location to put the files.
-     <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Command_Prompt.png" alt="Command Prompt Navigate">
-   * Creat an empty repository.
-     ```sh
-     git init
-     ```
-   * Paste the following line to clone the repository.
-     ```sh
-     git clone https://github.com/alfa2beta3/Voice-GPT.git
-     ```
-2. Go to your file location and copy these files.
-   <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/copy.png" alt="XAMPP files needed to be copied">
-   
-3. Go to your installation path of XAMPP. And then, enter a file called "htdocs". In my case, the path is C/XAMPP/htdocs.
-   Either, you can also write the location like so.
-   <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/htdocs.png" alt="XAMPP htdocs location">
-   
-4. Paste the files inside this location.
+Clone the repo
+* Open command prompt in windows by typing command prompt in desktop search.
+* Go to your desired location to put the files.
+  <br> <img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Command_Prompt.png" alt="Command Prompt Navigate">
+* Creat an empty repository.
+  ```sh
+   git init
+    ```
+ * Paste the following line to clone the repository.
+    ```sh
+    git clone https://github.com/alfa2beta3/Voice-GPT.git
+   ```
 
-#### Device setup 
+#### The Backend
 
-For more information, refer to [tutorial](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
-The instructions are quoted from there.
+1. Go to Web.
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/PythonAnywhere_1.png" alt="PythonAnywhere"> 
+2. Click "Add a new web app".
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/PythonAnywhere_2.png" alt="PythonAnywhere"> 
+3. Select python interpreter.
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Select Python.png" alt="SelectPython"> 
+4. Change name.
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Rename_File.png" alt="Rename_File">
+5. Click next.
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Next.png" alt="Next">
+6. Select Files.
+  * <br><img src="https://github.com/alfa2beta3/Voice-GPT/blob/main/pictures/Files.png" alt="Add Files">
+7. Copy the server.py code in backend.
+8. Paste into the server.py at PythonAnywhere.
+9. Add all coding files into the PythonAnywhere.
+
 
 <!-- Demonstrations -->
 ## Demonstrations
