@@ -1,6 +1,3 @@
-"# Voice-GPT" 
-
-!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -25,13 +22,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/alfa2beta3/Voice-GPT">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Voice-GPT</h3>
 
   <p align="center">
@@ -40,8 +30,6 @@
     <a href="https://github.com/alfa2beta3/Voice-GPT"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/alfa2beta3/Voice-GPT/Demo">View Demo</a>
-    ·
     <a href="https://github.com/alfa2beta3/Voice-GPT/issues">Report Bug</a>
     ·
     <a href="https://github.com/alfa2beta3/Voice-GPT/issues">Request Feature</a>
@@ -80,8 +68,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,10 +224,6 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
--
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -255,10 +237,6 @@ Project Link: [https://github.com/alfa2beta3/Voice-GPT](https://github.com/alfa2
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
