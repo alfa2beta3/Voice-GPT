@@ -208,10 +208,8 @@ _For more examples, please refer to the [Documentation](https://github.com/alfa2
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Record voice and 'speak out' the responses
+- [ ] Type questions and show responses on screen
 
 See the [open issues](https://github.com/alfa2beta3/Voice-GPT/issues) for a full list of proposed features (and known issues).
 
